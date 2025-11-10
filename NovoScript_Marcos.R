@@ -52,3 +52,5 @@ plot(base_trabalho$tempo_preso, base_trabalho$score_periculosidade, main = "temp
 
 cor_tempo_periculosidade = cor(x = base_trabalho$tempo_preso, y = base_trabalho$score_periculosidade)
 cor_tempo_periculosidade
+
+#teste commit
