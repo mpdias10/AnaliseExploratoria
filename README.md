@@ -51,4 +51,29 @@ Devido à apresentação incompleta do gráfico, **não é possível** concluir 
 * **Identificação do Grupo:** Não há rótulos visíveis no eixo X para determinar se a barra de 60 detentos corresponde ao sexo **Feminino** ou **Masculino**.
 * **Frequência Total:** É impossível determinar a frequência do sexo oposto (a barra ausente) e, consequentemente, o **número total de detentos** na amostra.
 
-jkfdhjfd
+# 🚀 Título do Projeto: Análise de Detentos e Periculosidade
+
+**Breve descrição concisa do que é o projeto e o que ele faz. (Ex: "Análise da relação entre tempo de prisão, escolaridade e escore de periculosidade de uma amostra de detentos.")**
+
+
+### Definições de Medidas Estatísticas
+
+Supondo um conjunto de observações $x_1, x_2, \dots, x_n$, estas são as definições das medidas de tendência central e de dispersão utilizadas na análise:
+
+### Medidas de Tendência Central
+
+| Medida | Definição |
+| :--- | :--- |
+| **Média ($\bar{x}$)** | É o valor que representa o ponto de equilíbrio de um conjunto de dados. É calculada somando-se todos os valores e dividindo-se pelo número total de observações ($n$).<br><br>$$\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i$$ |
+| **Mediana ($\tilde{x}$)** | É o valor central que divide o conjunto de dados ordenados em duas partes iguais (50% das observações são menores ou iguais, e 50% são maiores ou iguais a este valor). |
+
+### Medidas de Dispersão
+
+| Medida | Definição |
+| :--- | :--- |
+| **Variância ($s^2$)** | É a média dos quadrados das diferenças entre cada valor e a média do conjunto. Indica o quão dispersos os dados estão em relação à média.<br><br>$$s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2$$ |
+| **Desvio Padrão ($s$)** | É a raiz quadrada da variância. Oferece uma medida de dispersão na mesma unidade de medida dos dados originais, tornando a interpretação mais fácil.<br><br>$$s = \sqrt{s^2}$$ |
+| **Amplitude ($A$)** | É a diferença entre o maior e o menor valor do conjunto de dados. Representa a extensão total dos valores observados.<br><br>$$A = \text{Valor Máximo} - \text{Valor Mínimo}$$ |
+
+
+
